@@ -1,0 +1,25 @@
+.wrapper {
+  background: rgba(148, 33, 33, 0.239);
+  min-height: 100vh;
+}
+
+i {
+  background: rgba(128, 0, 128, 0.218);
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  padding-left: 7px;
+  padding-top: 7px;
+}
+
+footer {
+  color: white;
+  background: black;
+
+  height: 80px;
+}
+
+footer > p {
+  color: pink;
+  padding-top: 15px;
+}
